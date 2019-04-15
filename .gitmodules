@@ -38,3 +38,6 @@
 [submodule "BH15"]
 	path = BH15
 	url = https://github.com/orenogithub/BH15
+[submodule "vg"]
+	path = vg
+	url = https://github.com/vgteam/vg

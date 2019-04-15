@@ -44,3 +44,6 @@
 [submodule "bio-virtuoso"]
 	path = bio-virtuoso
 	url = https://github.com/misshie/bio-virtuoso
+[submodule "ensembl-docker"]
+	path = ensembl-docker
+	url = https://github.com/helios/ensembl-docker

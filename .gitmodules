@@ -47,3 +47,6 @@
 [submodule "ensembl-docker"]
 	path = ensembl-docker
 	url = https://github.com/helios/ensembl-docker
+[submodule "tool-registry-schemas"]
+	path = tool-registry-schemas
+	url = https://github.com/ga4gh/tool-registry-schemas

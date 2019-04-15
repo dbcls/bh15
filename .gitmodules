@@ -35,3 +35,6 @@
 [submodule "guix-bioinformatics"]
 	path = guix-bioinformatics
 	url = https://github.com/genenetwork/guix-bioinformatics
+[submodule "BH15"]
+	path = BH15
+	url = https://github.com/orenogithub/BH15

@@ -19,9 +19,6 @@
 [submodule "bh15-fossil-paralogy"]
 	path = bh15-fossil-paralogy
 	url = https://github.com/rvosa/bh15-fossil-paralogy
-[submodule "BH15-JPost"]
-	path = BH15
-	url = https://github.com/orenogithub/BH15
 [submodule "disgenet"]
 	path = disgenet
 	url = https://github.com/NuriaQueralt/disgenet/

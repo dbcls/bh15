@@ -41,3 +41,6 @@
 [submodule "vg"]
 	path = vg
 	url = https://github.com/vgteam/vg
+[submodule "bio-virtuoso"]
+	path = bio-virtuoso
+	url = https://github.com/misshie/bio-virtuoso

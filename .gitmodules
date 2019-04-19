@@ -1,0 +1,55 @@
+[submodule "OrthologyOntology"]
+	path = OrthologyOntology
+	url = https://github.com/qfo/OrthologyOntology
+[submodule "DataFairPort"]
+	path = DataFairPort
+	url = https://github.com/FAIRDataInitiative/DataFairPort
+[submodule "OpenLifeData2SADI"]
+	path = OpenLifeData2SADI
+	url = https://github.com/wilkinsonlab/OpenLifeData2SADI
+[submodule "rdf-vcf"]
+	path = rdf-vcf
+	url = https://github.com/ruby-rdf/rdf-vcf
+[submodule "linkdbRDF"]
+	path = linkdbRDF
+	url = https://github.com/kozo2/linkdbRDF
+[submodule "uniprot2owl"]
+	path = uniprot2owl
+	url = https://github.com/bio-ontology-research-group/uniprot2owl/
+[submodule "bh15-fossil-paralogy"]
+	path = bh15-fossil-paralogy
+	url = https://github.com/rvosa/bh15-fossil-paralogy
+[submodule "disgenet"]
+	path = disgenet
+	url = https://github.com/NuriaQueralt/disgenet/
+	branch = bh15
+[submodule "semantichaiku"]
+	path = semantichaiku
+	url = https://github.com/leechuck/semantichaiku
+[submodule "guix"]
+	path = guix
+	url = https://github.com/genenetwork/guix
+[submodule "guix-notes"]
+	path = guix-notes
+	url = https://github.com/pjotrp/guix-notes
+[submodule "guix-bioinformatics"]
+	path = guix-bioinformatics
+	url = https://github.com/genenetwork/guix-bioinformatics
+[submodule "BH15"]
+	path = BH15
+	url = https://github.com/orenogithub/BH15
+[submodule "vg"]
+	path = vg
+	url = https://github.com/vgteam/vg
+[submodule "bio-virtuoso"]
+	path = bio-virtuoso
+	url = https://github.com/misshie/bio-virtuoso
+[submodule "ensembl-docker"]
+	path = ensembl-docker
+	url = https://github.com/helios/ensembl-docker
+[submodule "tool-registry-schemas"]
+	path = tool-registry-schemas
+	url = https://github.com/ga4gh/tool-registry-schemas
+[submodule "workflow-service"]
+	path = workflow-service
+	url = https://github.com/common-workflow-language/workflow-service

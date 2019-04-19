@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/34372729.svg)](https://zenodo.org/badge/latestdoi/34372729)
+
 # BioHackathon 2015 repository aggregation
 
 This repository serves as an archive for the [NBDC/DBCLS BioHackathon 2015](http://2015.biohackathon.org).

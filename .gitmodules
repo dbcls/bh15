@@ -53,3 +53,6 @@
 [submodule "workflow-service"]
 	path = workflow-service
 	url = https://github.com/common-workflow-language/workflow-service
+[submodule "HPO-japanese"]
+	path = HPO-japanese
+	url = https://github.com/ogishima/HPO-japanese.git

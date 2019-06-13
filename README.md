@@ -7,7 +7,7 @@ All relevant git repositories that are referenced in the hackathon proceedings a
 submodules and checked out to the nearest commit after the hackathon (or nearest coherent set of commits)
 in order to reflect the state of the included repositories by the end of the event. Listing:
 
-- [ ] BH15
+- [x] BH15: _Proteome assay annotation_
 - [ ] DataFairPort
 - [ ] HPO-japanese
 - [ ] OpenLifeData2SADI

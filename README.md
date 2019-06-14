@@ -23,7 +23,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [ ] rdf-vcf
 - [ ] semantichaiku
 - [ ] tool-registry-schemas
-- [ ] uniprot2owl
+- [x] uniprot2owl: _Protein semantic representation_
 - [ ] vg
 - [ ] workflow-service
 

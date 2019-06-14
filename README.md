@@ -14,7 +14,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [x] OrthologyOntology: _Orthology ontology development and application_
 - [x] bh15-fossil-paralogy: _Molecular evolutionary process calibration_
 - [ ] bio-virtuoso
-- [ ] disgenet
+- [x] disgenet: _Integration of text-mined and curated disease-phenotype data_
 - [ ] ensembl-docker
 - [ ] guix
 - [ ] guix-bioinformatics

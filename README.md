@@ -15,7 +15,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [x] bh15-fossil-paralogy: _Molecular evolutionary process calibration_
 - [x] bio-virtuoso: _Docker container registry development_
 - [x] disgenet: _Integration of text-mined and curated disease-phenotype data_
-- [ ] ensembl-docker
+- [x] ensembl-docker: _Docker container registry development_
 - [x] guix: _GNU Guix extension and deployment_
 - [x] guix-bioinformatics: _GNU Guix extension and deployment_
 - [x] guix-notes: _GNU Guix extension and deployment_

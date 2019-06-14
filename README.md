@@ -8,7 +8,7 @@ submodules and checked out to the nearest commit after the hackathon (or nearest
 in order to reflect the state of the included repositories by the end of the event. Listing:
 
 - [x] BH15: _Proteome assay annotation_
-- [ ] DataFairPort
+- [x] DataFairPort: _FAIR projector prototype development_
 - [x] HPO-japanese: _Phenotype ontology translation_
 - [x] OpenLifeData2SADI: _OpenLifeData to SADI deployment_
 - [x] OrthologyOntology: _Orthology ontology development and application_

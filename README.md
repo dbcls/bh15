@@ -10,7 +10,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [x] BH15: _Proteome assay annotation_
 - [ ] DataFairPort
 - [x] HPO-japanese: _Phenotype ontology translation_
-- [ ] OpenLifeData2SADI
+- [x] OpenLifeData2SADI: _OpenLifeData to SADI deployment_
 - [x] OrthologyOntology: _Orthology ontology development and application_
 - [x] bh15-fossil-paralogy: _Molecular evolutionary process calibration_
 - [ ] bio-virtuoso

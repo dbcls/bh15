@@ -19,7 +19,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [x] guix: _GNU Guix extension and deployment_
 - [x] guix-bioinformatics: _GNU Guix extension and deployment_
 - [x] guix-notes: _GNU Guix extension and deployment_
-- [ ] linkdbRDF
+- [x] linkdbRDF: _Plant metabolome database development_
 - [x] rdf-vcf: _Variant call transformation_
 - [x] semantichaiku: _Semantic haiku generation_
 - [ ] tool-registry-schemas

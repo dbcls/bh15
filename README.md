@@ -25,7 +25,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [x] tool-registry-schemas: _Docker container registry development_
 - [x] uniprot2owl: _Protein semantic representation_
 - [x] vg: _Variation graph construction_
-- [ ] workflow-service
+- [x] workflow-service: _Extending the Common Workflow Language_
 
 
 In addition, this repository has a [wiki](https://github.com/dbcls/bh15/wiki) used during the hackathon

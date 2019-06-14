@@ -21,7 +21,7 @@ in order to reflect the state of the included repositories by the end of the eve
 - [ ] guix-notes
 - [ ] linkdbRDF
 - [x] rdf-vcf: _Variant call transformation_
-- [ ] semantichaiku
+- [x] semantichaiku: _Semantic haiku generation_
 - [ ] tool-registry-schemas
 - [x] uniprot2owl: _Protein semantic representation_
 - [x] vg: _Variation graph construction_

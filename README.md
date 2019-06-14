@@ -9,10 +9,10 @@ in order to reflect the state of the included repositories by the end of the eve
 
 - [x] BH15: _Proteome assay annotation_
 - [ ] DataFairPort
-- [ ] HPO-japanese
+- [x] HPO-japanese: _Phenotype ontology translation_
 - [ ] OpenLifeData2SADI
-- [ ] OrthologyOntology
-- [ ] bh15-fossil-paralogy
+- [x] OrthologyOntology: _Orthology ontology development and application_
+- [x] bh15-fossil-paralogy: _Molecular evolutionary process calibration_
 - [ ] bio-virtuoso
 - [ ] disgenet
 - [ ] ensembl-docker
@@ -20,11 +20,11 @@ in order to reflect the state of the included repositories by the end of the eve
 - [ ] guix-bioinformatics
 - [ ] guix-notes
 - [ ] linkdbRDF
-- [ ] rdf-vcf
+- [x] rdf-vcf: _Variant call transformation_
 - [ ] semantichaiku
 - [ ] tool-registry-schemas
 - [x] uniprot2owl: _Protein semantic representation_
-- [ ] vg
+- [x] vg: _Variation graph construction_
 - [ ] workflow-service
 
 

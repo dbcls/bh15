@@ -16,9 +16,9 @@ in order to reflect the state of the included repositories by the end of the eve
 - [x] bio-virtuoso: _Docker container registry development_
 - [x] disgenet: _Integration of text-mined and curated disease-phenotype data_
 - [ ] ensembl-docker
-- [ ] guix
-- [ ] guix-bioinformatics
-- [ ] guix-notes
+- [x] guix: _GNU Guix extension and deployment_
+- [x] guix-bioinformatics: _GNU Guix extension and deployment_
+- [x] guix-notes: _GNU Guix extension and deployment_
 - [ ] linkdbRDF
 - [x] rdf-vcf: _Variant call transformation_
 - [x] semantichaiku: _Semantic haiku generation_
